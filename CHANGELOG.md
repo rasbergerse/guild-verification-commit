@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-01T17:28:53.843Z
-Commit: Correct typo in configuration file
+Timestamp: 2025-11-01T17:29:05.187Z
+Commit: Resolve timezone issues in date handling
